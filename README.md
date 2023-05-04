@@ -3,4 +3,4 @@ Vespy is a PYTHON 3.9.5 open source project to recover information from a window
 
 # Official Download
 
-https://fuck-lgbtq.com/vespy
+https://vespyprojects.com
